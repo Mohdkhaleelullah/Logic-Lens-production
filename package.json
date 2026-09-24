@@ -1,0 +1,20 @@
+{
+  "name": "logic-lens",
+  "version": "1.0.0",
+  "description": "Logic Lens - AI-powered code review platform",
+  "main": "browser-get-leader-url.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ai", "code-review", "logic-lens"],
+  "author": "Khaleel",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Khaleel/Logic-Lens.git"
+  },
+  "homepage": "https://github.com/Khaleel/Logic-Lens",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.74.0"
+  }
+}
