@@ -298,55 +298,6 @@ flowchart TD
 
 ---
 
-## 📸 Product Screenshots
-
-### Landing Page
-
-<p align="center">
-  <img src="docs/Images/Homepage.jpg" alt="Logic Lens landing page" width="850"/>
-</p>
-
-### Code Review Editor
-
-<p align="center">
-  <img src="docs/Images/Code_editor.jpg" alt="Logic Lens code editor" width="850"/>
-</p>
-
-### GitHub Integration
-
-<p align="center">
-  <img src="docs/Images/GithubIntegration.jpg" alt="GitHub integration" width="850"/>
-</p>
-
-### Team Collaboration
-
-<p align="center">
-  <img src="docs/Images/Collabration.jpg" alt="Team collaboration" width="850"/>
-</p>
-
-### Admin Dashboard
-
-<p align="center">
-  <img src="docs/Images/Admin_DashBoard.jpg" alt="Admin dashboard" width="850"/>
-</p>
-
-### Team Management
-
-<p align="center">
-  <img src="docs/Images/Team.jpg" alt="Team management" width="850"/>
-</p>
-
-### Grafana Monitoring
-
-<p align="center">
-  <img src="docs/Images/Grafnaa_1.png" alt="Grafana metrics overview" width="850"/>
-</p>
-
-<p align="center">
-  <img src="docs/Images/Grafna-2.png" alt="Grafana dashboard details" width="850"/>
-</p>
-
----
 
 # 🚀 Getting Started
 
